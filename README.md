@@ -6,7 +6,7 @@
 |  Ghislain  Ryan | @lucky07-ux      |Ghislain-Ryan          |   5     |
 |  Adrien menyomo | @adrien-menyomo  |Adrien-menyomo         |   5     |
 |  Zeufack Franck | @Fai-franck      |Zeufack-franck         |   5     |
-|  Jemea Agnese   | @Jemea-agnese    |Jemea-Agnese           |   5     |
+|  Jemea Agnes    | @Jemea-agnes     |Jemea-Agnes            |   5     |
 |  Ndong Clement  | @Smart-clement   |Ndong-clement          |   5     |
 |   Tem Bryan     | @Stormz8-glitch  |Tem-Bryan              |   5     |
 |   …             |        …         |              …        |   …     |
