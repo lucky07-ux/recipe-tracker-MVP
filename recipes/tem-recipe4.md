@@ -4,4 +4,4 @@ salt & pepper.
 Steps:
 Chop leftover veggies and mix with mashed potatoes.
 Fry in a pan with butter until golden brown on both sides.
-Fun Fact: Named after the sounds it makes while frying!
+Fun Fact: Named after the sounds it makes while frying! 
